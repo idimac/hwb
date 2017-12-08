@@ -1,0 +1,16 @@
+.wrapper {
+    height: 500px;
+    width: 500px;
+    background-color: greenyellow;
+}
+
+.buttonsFirst {
+    padding-left: 35px;
+    padding-top: 10px;
+}
+
+.buttonsSecond {
+    padding-top: 10px;
+    padding-left: 15px;
+}
+
